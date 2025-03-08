@@ -21,7 +21,7 @@ This dataset contains **65,280** sales records from Amazon, detailing transactio
 | Column Name                         | Data Type        | Description |
 |--------------------------------------|-----------------|-------------|
 | **Custkey**                          | `int64`         | Unique customer identifier |
-| **DateKey**                          | `object`        | Date of transaction (MM/DD/YYYY) |
+| **DateKey**                          | `datetime64`        | Date of transaction (MM/DD/YYYY) |
 | **Discount Amount**                  | `float64`       | Discount applied to the sale |
 | **Invoice Date**                      | `datetime64`    | Date of invoice issued |
 | **Invoice Number**                    | `int64`         | Unique invoice ID |
@@ -31,7 +31,7 @@ This dataset contains **65,280** sales records from Amazon, detailing transactio
 | **Line Number**                       | `int64`         | Order line number within invoice |
 | **List Price**                        | `float64`       | Original listed price of the item |
 | **Order Number**                      | `int64`         | Unique order ID |
-| **Promised Delivery Date**            | `object`        | Expected delivery date |
+| **Promised Delivery Date**            | `datetime64`        | Expected delivery date |
 | **Sales Amount**                      | `float64`       | Total amount generated from sales |
 | **Sales Amount Based on List Price**  | `float64`       | Sales revenue assuming no discount |
 | **Sales Cost Amount**                 | `float64`       | Cost incurred for the sale |

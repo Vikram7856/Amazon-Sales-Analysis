@@ -59,7 +59,7 @@ This dataset contains **65,280** sales records from Amazon, detailing transactio
 ### 📈 **Monthly Sales Trends**
 - **Peak Sales Months**: March, June, and September.  
 - **Lowest Sales Months**: April, May, and October.  
-![Monthly Sales Analysis](images/Monthly Sales.jpg)
+![Monthly Sales Analysis](Monthly Sales.jpg)
 
 
 ---

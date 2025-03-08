@@ -82,6 +82,7 @@ This dataset contains **65,280** sales records from Amazon, detailing transactio
   2. Customer ID 10009676 ($10.8M)  
   3. Customer ID 10025024 ($9.3M)  
 
+![Top Customers](https://github.com/Vikram7856/Amazon-Sales-Analysis/blob/main/Top%20Customers.png)
 
 ---
 
@@ -90,6 +91,8 @@ This dataset contains **65,280** sales records from Amazon, detailing transactio
   - Better Large Canned Shrimp  
   - High Top Dried Mushrooms  
 - **Insight**: These products are top performers in both domestic and international markets.  
+
+
 
 
 ---

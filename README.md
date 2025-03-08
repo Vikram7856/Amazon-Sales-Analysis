@@ -47,5 +47,58 @@ This dataset contains **65,280** sales records from Amazon, detailing transactio
 
 ---
 
-🚀 **Let's dive into the analysis and extract meaningful business insights!**
+## 📊 Key Insights from Dataset Analysis
+
+### 📅 **Annual Revenue Trends**
+- **Highest Revenue**: 2017 ($87.46M)  
+- **Second Highest Revenue**: 2019 ($77.9M)  
+- **Lowest Revenue**: 2018 ($20.82M)  
+
+---
+
+### 📈 **Monthly Sales Trends**
+- **Peak Sales Months**: March, June, and September.  
+- **Lowest Sales Months**: April, May, and October.  
+- **Recommendation**: Introduce discounts and special offers during low-performing months to boost revenue.
+
+---
+
+### 📆 **Weekly Sales Trends**
+- **Highest Sales Days**:  
+  - Sunday ($56M)  
+  - Saturday ($36M)  
+  - Monday ($35M)  
+- **Lowest Sales Days**:  
+  - Wednesday ($5M)  
+  - Thursday ($1M)  
+- **Recommendation**:  
+  - Boost weekend promotions to maximize revenue.  
+  - Introduce midweek discounts to balance sales.
+
+---
+
+### 🏆 **Top Customers**
+- **Top 3 Customers**:  
+  1. Customer ID 10021485 ($11.4M)  
+  2. Customer ID 10009676 ($10.8M)  
+  3. Customer ID 10025024 ($9.3M)  
+- **Recommendation**: Develop targeted marketing strategies to enhance loyalty and increase repeat purchases.
+
+---
+
+### 🛒 **Top-Selling Products**
+- **Top Products**:  
+  - Better Large Canned Shrimp  
+  - High Top Dried Mushrooms  
+- **Insight**: These products are top performers in both domestic and international markets.  
+- **Recommendation**: Prioritize marketing and inventory efforts for these products to maximize revenue.
+
+---
+
+### 🚀 **Actionable Recommendations**
+1. **Seasonal Promotions**: Offer discounts in April, May, and October to address low sales.  
+2. **Midweek Discounts**: Introduce promotions on Wednesdays and Thursdays to balance revenue.  
+3. **Weekend Campaigns**: Enhance marketing efforts on Sundays, Saturdays, and Mondays to capitalize on peak sales.  
+4. **Customer Loyalty Programs**: Target top customers with personalized offers to boost retention.  
+5. **Product Focus**: Increase marketing and inventory for top-selling products like *Better Large Canned Shrimp* and *High Top Dried Mushrooms*.
 

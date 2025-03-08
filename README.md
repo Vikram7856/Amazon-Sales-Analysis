@@ -59,7 +59,7 @@ This dataset contains **65,280** sales records from Amazon, detailing transactio
 ### 📈 **Monthly Sales Trends**
 - **Peak Sales Months**: March, June, and September.  
 - **Lowest Sales Months**: April, May, and October.  
-- **Recommendation**: Introduce discounts and special offers during low-performing months to boost revenue.
+
 
 ---
 
@@ -71,9 +71,7 @@ This dataset contains **65,280** sales records from Amazon, detailing transactio
 - **Lowest Sales Days**:  
   - Wednesday ($5M)  
   - Thursday ($1M)  
-- **Recommendation**:  
-  - Boost weekend promotions to maximize revenue.  
-  - Introduce midweek discounts to balance sales.
+
 
 ---
 
@@ -82,7 +80,7 @@ This dataset contains **65,280** sales records from Amazon, detailing transactio
   1. Customer ID 10021485 ($11.4M)  
   2. Customer ID 10009676 ($10.8M)  
   3. Customer ID 10025024 ($9.3M)  
-- **Recommendation**: Develop targeted marketing strategies to enhance loyalty and increase repeat purchases.
+
 
 ---
 
@@ -91,7 +89,7 @@ This dataset contains **65,280** sales records from Amazon, detailing transactio
   - Better Large Canned Shrimp  
   - High Top Dried Mushrooms  
 - **Insight**: These products are top performers in both domestic and international markets.  
-- **Recommendation**: Prioritize marketing and inventory efforts for these products to maximize revenue.
+
 
 ---
 

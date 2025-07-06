@@ -1,5 +1,5 @@
 # 📊 Amazon Sales Analysis
-
+# This is my first reporistry
 ## 🚀 Project Overview  
 This project analyzes Amazon sales data to identify trends, optimize sales strategies, and provide actionable recommendations. Key insights include peak sales periods, top-performing products, and customer behavior, enabling data-driven decision-making to maximize revenue.
 
